@@ -17,3 +17,4 @@ if user_input == "left":
 elif user_input == "right":
     print("You choose to go right and ...") # finished the story writing what happens
  
+mmimimijmim
